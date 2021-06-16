@@ -472,7 +472,7 @@
   resolved "https://registry.yarnpkg.com/@redhat-cloud-services/frontend-components-config-utilities/-/frontend-components-config-utilities-1.1.2.tgz#5dc1314d3e0e23610181d42211a1fbb339688780"
   integrity sha512-g3JHon+MH0+KtZ45d4Qmn6EedqrvxH+ReIo0QfS/TQTVrwP2NrdjFIvFIzjs2y3qKweMEqGn3SL8+lHgyKBHTA==
 
-"@redhat-cloud-services/frontend-components-config@4.1.10":
+"@redhat-cloud-services/frontend-components-config@^4.1.10":
   version "4.1.10"
   resolved "https://registry.yarnpkg.com/@redhat-cloud-services/frontend-components-config/-/frontend-components-config-4.1.10.tgz#404f0fef2287b447e834a3db1f010dbfa54364ba"
   integrity sha512-BR1qE4VjU+iisgWebZtB/u0TqEKG+nI2QwRDb9N3m+1WEocv6WR5KRQocB5pS8PmmN56Zy0zt5SfQItFLapVIQ==
